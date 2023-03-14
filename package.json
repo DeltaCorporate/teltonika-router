@@ -17,8 +17,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "basic-ftp": "^5.0.2",
     "daisyui": "^2.50.2",
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "node-ssh": "^13.0.1"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.5",
